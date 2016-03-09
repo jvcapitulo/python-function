@@ -8,7 +8,7 @@ def FuncOut (no1,no2):
         
         print "Hi! My name is {} and my age is {}".format(no1,no2)
         
-FuncOut ("John Vincent Capitulo",19)    
+print FuncOut ("John Vincent Capitulo",19)    
 
 
 
